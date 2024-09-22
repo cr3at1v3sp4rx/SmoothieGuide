@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SmoothieGuide/static/css/main.1787a9aa.css",
-    "main.js": "/SmoothieGuide/static/js/main.a9caed48.js",
+    "main.css": "/SmoothieGuide/static/css/main.fa594f95.css",
+    "main.js": "/SmoothieGuide/static/js/main.15fe9f72.js",
     "static/js/453.b30e9e7e.chunk.js": "/SmoothieGuide/static/js/453.b30e9e7e.chunk.js",
     "index.html": "/SmoothieGuide/index.html",
-    "main.1787a9aa.css.map": "/SmoothieGuide/static/css/main.1787a9aa.css.map",
-    "main.a9caed48.js.map": "/SmoothieGuide/static/js/main.a9caed48.js.map",
+    "main.fa594f95.css.map": "/SmoothieGuide/static/css/main.fa594f95.css.map",
+    "main.15fe9f72.js.map": "/SmoothieGuide/static/js/main.15fe9f72.js.map",
     "453.b30e9e7e.chunk.js.map": "/SmoothieGuide/static/js/453.b30e9e7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1787a9aa.css",
-    "static/js/main.a9caed48.js"
+    "static/css/main.fa594f95.css",
+    "static/js/main.15fe9f72.js"
   ]
 }
